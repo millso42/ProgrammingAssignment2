@@ -1,3 +1,6 @@
+## Week 3 Assignment 2
+## Gary Mills (millso42)
+
 ## Put comments here that give an overall description of what your
 ## functions do:
 
